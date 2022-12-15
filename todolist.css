@@ -113,3 +113,8 @@ h1{
     width:150px;
 }
 
+.remove_btn:hover
+{
+    background:#ff0123;
+    letter-spacing: 1px;
+}
